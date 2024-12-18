@@ -16,14 +16,20 @@ In one test with 64x64, the results are:
 
 Training Accuracy: 0.7286
 #0.3 ~ 0.4 decrease
+
 Training Loss: 1.0195
 #0.1 ~ 0.2 increase
+
 Validation Accuracy: 0.7252 
 #0.2 ~ 0.3 decrease
+
 Validation Loss: 1.0216 
 #0.1 ~ 0.2 increase
+
 Test Accuracy: 0.72 
 #0.3 ~ 0.4 decrease
+
 Test Loss: 1.04
 #0.1 ~ 0.2 decrease
+
 
