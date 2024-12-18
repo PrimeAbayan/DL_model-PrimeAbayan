@@ -1,4 +1,5 @@
-README
+#README
+
 The Custom CNN script is ran with randomized weights which could output different final values as written in my report.
 
 When I was running my code, it was done on A100 GPU with high ram. 
